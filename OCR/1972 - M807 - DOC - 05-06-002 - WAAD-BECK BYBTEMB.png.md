@@ -28,7 +28,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 192 in 156 lines: +ISv · 2N3645 · +ISv · SR2z · S4k7 · CRS · RI6 · IN9I4 · 33k · FADE VOLTAGE SEt · +ISv · 3k3
 - **Title block:** (144, 17)–(381, 69) mm: 2N3645 · ~ISV IN749A ISSMODIICKD @SEDAON MAtL . · WBS WARD-Beck · 83O1GEB B72025-06- 992 · M8o7 · RGIGEB 74057 · DRN: GP · M 807 · FINISH · DATE DEC 72 · FADE GENERATOR · CKD · SCALE · SCHEMATIC · TOL
 
-Every curve, box, word and wire group: [1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB (traced).json](../SCHEMATICS/1972%20-%20M807%20-%20DOC%20-%2005-06-002%20-%20WAAD-BECK%20BYBTEMB%20(traced).json) (the CAD file: `1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB (traced).json](../SCHEMATICS/1972%20-%20M807%20-%20DOC%20-%2005-06-002%20-%20WAAD-BECK%20BYBTEMB%20%28traced%29.json) (the CAD file: `1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB (traced).dxf`).
 
 ## Full text
 
