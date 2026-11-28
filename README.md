@@ -1,6 +1,6 @@
 # M807 Fade Generator · Amplifiers
 
-Ward-Beck Systems M807, 1972|5. Wiki page: [M807 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M807.html)
+Ward-Beck Systems M807, 1972|5. Wiki page: [M807 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M807-Fade-Generator/)
 
 | Folder | What is in it | Files |
 |---|---|---|

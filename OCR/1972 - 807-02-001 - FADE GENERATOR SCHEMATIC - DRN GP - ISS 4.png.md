@@ -1,5 +1,5 @@
 # 1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4.png
-Wiki page: [M807](../../../../PAGES/M807.md)
+Wiki page: [M807](../)
 
 
 - **Year:** 1972 (title block date)
